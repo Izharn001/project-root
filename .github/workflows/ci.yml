@@ -31,5 +31,5 @@ jobs:
           context: ./app
           push: true
           tags: |
-            IZHARN007/node-devops-project:latest
-            IZHARN007/node-devops-project:${{ github.sha }}
+            izharn007/node-devops-project:latest
+            izharn007/node-devops-project:${{ github.sha }}
